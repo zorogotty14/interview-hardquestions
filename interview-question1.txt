@@ -13,9 +13,9 @@ Since the answer can be very large, compute it modulo (109 +
 Note: Since the given network is a tree, so there exists a unique shortest path between any two categories.
 Example
 Consider the following example: category_nodes = 4, K= 2
-• category_from = [O, 0, 2]
+• category_from = [0, 0, 2]
 • category_to = [1, 2, 3]
-• viral_val = [O, 0, 1]
+• viral_val = [1, 1, 0]
 Sample Input For Custom Testing
 STDIN
 FUNCTION
